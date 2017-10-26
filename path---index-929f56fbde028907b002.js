@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{285:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"VanCity Drinks:Post Mortem I",date:"25 October, 2017"},fields:{slug:"/vancity-drinks-post-mortem-i/"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-929f56fbde028907b002.js.map

@@ -1,0 +1,40 @@
+{
+  "assetsByChunkName": {
+    "path---vancity-drinks-post-mortem-i": [
+      "path---vancity-drinks-post-mortem-i-adecc18bdf6b4e65c282.js",
+      "path---vancity-drinks-post-mortem-i-adecc18bdf6b4e65c282.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-4f5d500a64fec99f5e25.js",
+      "component---src-pages-index-js-4f5d500a64fec99f5e25.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-4f5eff8c85bfd5f4ad6e.js",
+      "component---src-templates-blog-post-js-4f5eff8c85bfd5f4ad6e.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-98c1ee49a1ae0c76edd6.js",
+      "component---src-layouts-index-js-98c1ee49a1ae0c76edd6.js.map"
+    ],
+    "path---index": [
+      "path---index-929f56fbde028907b002.js",
+      "path---index-929f56fbde028907b002.js.map"
+    ],
+    "commons": [
+      "commons-9383747164a384dfbcbd.js",
+      "build-js-styles.css",
+      "commons-9383747164a384dfbcbd.js.map",
+      "build-js-styles.css.map"
+    ],
+    "app": [
+      "app-61b9800d7e33f48de2b2.js",
+      "build-js-styles.css",
+      "app-61b9800d7e33f48de2b2.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
