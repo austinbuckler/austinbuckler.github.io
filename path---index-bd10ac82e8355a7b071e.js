@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{299:function(t,e){t.exports={data:{allMarkdownRemark:{edges:[{node:{frontmatter:{title:"VanCity Drinks:Post Mortem I",date:"25 October, 2017"},fields:{slug:"/vancity-drinks-post-mortem-i/"}}},{node:{frontmatter:{title:"VanCity Drinks:Post Mortem II",date:"01 November, 2017"},fields:{slug:"/vancity-drinks-post-mortem-part-ii/"}}}]},site:{siteMetadata:{title:"tmwed",siteUrl:"https://tmwed.io",siteTitleAlt:"tmwed – tomorrow is wednesday."},pathPrefix:""}},pathContext:{}}}});
+//# sourceMappingURL=path---index-bd10ac82e8355a7b071e.js.map

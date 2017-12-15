@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{96:function(t,e){t.exports={data:{site:{siteMetadata:{title:"tmwed",description:"tomorrow is wednesday, every other day is tuesday."}}},layoutContext:{}}}});
+//# sourceMappingURL=path----3dd9842dbe6ecfaa4dcb.js.map

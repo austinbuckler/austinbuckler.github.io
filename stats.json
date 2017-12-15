@@ -1,44 +1,56 @@
 {
   "assetsByChunkName": {
     "path---vancity-drinks-post-mortem-i": [
-      "path---vancity-drinks-post-mortem-i-65db4cc2f41f6c4785d6.js",
-      "path---vancity-drinks-post-mortem-i-65db4cc2f41f6c4785d6.js.map"
+      "path---vancity-drinks-post-mortem-i-a3721d32ddfd5c3940d9.js",
+      "path---vancity-drinks-post-mortem-i-a3721d32ddfd5c3940d9.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-4f5d500a64fec99f5e25.js",
-      "component---src-pages-index-js-4f5d500a64fec99f5e25.js.map"
+      "component---src-pages-index-js-ae20e6861d0b53472cc9.js",
+      "component---src-pages-index-js-ae20e6861d0b53472cc9.js.map"
     ],
     "path---vancity-drinks-post-mortem-part-ii": [
-      "path---vancity-drinks-post-mortem-part-ii-32261324c67c35aca9e8.js",
-      "path---vancity-drinks-post-mortem-part-ii-32261324c67c35aca9e8.js.map"
+      "path---vancity-drinks-post-mortem-part-ii-47f92cf49a01ebf14fcd.js",
+      "path---vancity-drinks-post-mortem-part-ii-47f92cf49a01ebf14fcd.js.map"
     ],
     "path---": [
-      "path----557518bd178906f8d58a.js",
-      "path----557518bd178906f8d58a.js.map"
+      "path----3dd9842dbe6ecfaa4dcb.js",
+      "path----3dd9842dbe6ecfaa4dcb.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-4f5eff8c85bfd5f4ad6e.js",
-      "component---src-templates-blog-post-js-4f5eff8c85bfd5f4ad6e.js.map"
+      "component---src-templates-blog-post-js-0a98d871092fbb6786d2.js",
+      "component---src-templates-blog-post-js-0a98d871092fbb6786d2.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-98c1ee49a1ae0c76edd6.js",
-      "component---src-layouts-index-js-98c1ee49a1ae0c76edd6.js.map"
+      "component---src-layouts-index-js-680a651e3bb8aa4b53b4.js",
+      "component---src-layouts-index-js-680a651e3bb8aa4b53b4.js.map"
     ],
     "path---index": [
-      "path---index-f98d750d712de0901917.js",
-      "path---index-f98d750d712de0901917.js.map"
+      "path---index-8cb12ae31bf214f81cc4.js",
+      "path---index-8cb12ae31bf214f81cc4.js.map"
     ],
     "commons": [
-      "commons-9383747164a384dfbcbd.js",
+      "commons-fa557918e8121c966d09.js",
       "build-js-styles.css",
-      "commons-9383747164a384dfbcbd.js.map",
+      "commons-fa557918e8121c966d09.js.map",
       "build-js-styles.css.map"
     ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-183673cfba47e5a18326.js",
+      "app-04801952c3e33dcdca3a.js",
       "build-js-styles.css",
-      "app-183673cfba47e5a18326.js.map",
+      "app-04801952c3e33dcdca3a.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---how-to-just-start": [
+      "path---how-to-just-start-6dc90d7d699c63773f5d.js",
+      "path---how-to-just-start-6dc90d7d699c63773f5d.js.map"
     ]
   }
 }
